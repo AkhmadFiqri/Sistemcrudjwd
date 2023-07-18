@@ -27,7 +27,7 @@
             </div>
         </form>
 
-        <table class="table table-bordered">
+        <table class="table table-hover">
             <thead class="text-center">
                 <tr>
                     <th>No.</th>
